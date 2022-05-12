@@ -5,7 +5,7 @@
 </p>
 
 ---
-**Our mission to popup window with document.domain (sudo.co.il) *without user interaction* **
+**Our mission is to popup window with document.domain (sudo.co.il) *without any kind of user interaction* **
 ---
 - Level 0
 ```javascript
