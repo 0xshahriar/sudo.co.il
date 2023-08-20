@@ -71,6 +71,10 @@
 ```javascript
 ';this[8680439..toString(30)](1);'
 ```
+or,
+```javascript
+x';x=top["al"%2B"ert"](document.domain);//
+```
 
 - Level 11
 ```javascript
