@@ -75,6 +75,10 @@ or,
 ```javascript
 x';x=top["al"%2B"ert"](document.domain);//
 ```
+or,
+```javascript
+x';x=this["al"%2B"ert"](document.domain);//
+```
 
 - Level 11
 ```javascript
